@@ -14,3 +14,5 @@ Aula 5 - Refinamento de Prompts
 Aula 6 - Aplicação
 
 Aula 7-Programação assistida por IA
+
+Aula 8 - Guia boas práticas na Colaboração Humana
