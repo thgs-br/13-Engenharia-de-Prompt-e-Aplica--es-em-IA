@@ -16,3 +16,5 @@ Aula 6 - Aplicação
 Aula 7-Programação assistida por IA
 
 Aula 8 - Guia boas práticas na Colaboração Humana
+
+Aula 9-Parecer Final unidade II
